@@ -6,7 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Compatible-green?style=flat-square)
-![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 ![CC BY-NC 4.0 License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
 
