@@ -101,6 +101,15 @@ technical-knowledge-base/
 
 ```
 
+## Related Documentation
+
+For formal, procedural engineering documentation and
+step-by-step technical guides, see:
+
+➡️ Engineering Documentation Wiki  
+https://github.com/<your-username>/engineering-documentation-wiki
+
+
 
 
 # 📜 License
