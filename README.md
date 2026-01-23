@@ -85,32 +85,7 @@ technical-knowledge-base/
 │
 └── LICENSE
 
-
 ```
-
-```text
-technical-knowledge-base/
-│
-├── README.md
-├── Home.md
-│
-├── Fundamentals/
-├── Tutorials/
-├── Tools/
-├── Research_Concepts/
-├── Glossary.md
-├── FAQ.md
-│
-├── exports/
-│   ├── pdf/
-│   ├── word/
-│   └── markdown/
-│
-└── LICENSE
-
-
-```
-
 
 # 📜 License
 This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
