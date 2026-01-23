@@ -7,6 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-Evolving-orange)
 ![Audience](https://img.shields.io/badge/Audience-Technical%20Learners-lightgrey)
 ![License](https://img.shields.io/badge/License-CC--BY--4.0-yellowgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+![Release](https://img.shields.io/github/v/release/<your-username>/technical-knowledge-base)
 
 
 This repository is a **structured technical knowledge base** designed to explain
