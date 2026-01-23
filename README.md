@@ -11,6 +11,16 @@
 ![Release](https://img.shields.io/github/v/release/<your-username>/technical-knowledge-base)
 
 
+
+## Related Documentation
+
+For formal, procedural engineering documentation and
+step-by-step technical guides, see:
+
+➡️ Engineering Documentation Wiki  
+https://github.com/georgegian2018/engineering-documentation-wiki
+
+
 This repository is a **structured technical knowledge base** designed to explain
 concepts, tools, and workflows used in engineering and research practice.
 
@@ -100,16 +110,6 @@ technical-knowledge-base/
 
 
 ```
-
-## Related Documentation
-
-For formal, procedural engineering documentation and
-step-by-step technical guides, see:
-
-➡️ Engineering Documentation Wiki  
-https://github.com/<your-username>/engineering-documentation-wiki
-
-
 
 
 # 📜 License
