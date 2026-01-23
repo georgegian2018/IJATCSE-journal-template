@@ -69,6 +69,29 @@ technical-knowledge-base/
 
 ```
 
+```text
+technical-knowledge-base/
+│
+├── README.md
+├── Home.md
+│
+├── Fundamentals/
+├── Tutorials/
+├── Tools/
+├── Research_Concepts/
+├── Glossary.md
+├── FAQ.md
+│
+├── exports/
+│   ├── pdf/
+│   ├── word/
+│   └── markdown/
+│
+└── LICENSE
+
+
+```
+
 
 
 # 📜 License
