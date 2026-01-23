@@ -1,5 +1,14 @@
 # Technical Knowledge Base
 
+![Knowledge Base](https://img.shields.io/badge/Type-Knowledge%20Base-blueviolet)
+![Style](https://img.shields.io/badge/Style-Help%20Center-informational)
+![Format](https://img.shields.io/badge/Format-Markdown-blue)
+![Exports](https://img.shields.io/badge/Exports-PDF%20%7C%20Word-success)
+![Status](https://img.shields.io/badge/Status-Evolving-orange)
+![Audience](https://img.shields.io/badge/Audience-Technical%20Learners-lightgrey)
+![License](https://img.shields.io/badge/License-CC--BY--4.0-yellowgreen)
+
+
 This repository is a **structured technical knowledge base** designed to explain
 concepts, tools, and workflows used in engineering and research practice.
 
