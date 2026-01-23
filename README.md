@@ -64,7 +64,14 @@ technical-knowledge-base/
 │   └── Research_Workflows.md
 │
 ├── Glossary.md
-└── FAQ.md
+├── FAQ.md
+│
+├── exports/
+│   ├── pdf/
+│   ├── word/
+│   └── markdown/
+│
+└── LICENSE
 
 
 ```
